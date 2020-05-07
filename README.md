@@ -7,15 +7,15 @@ This folder includes 13 example codes as well as input files presented in the wo
 | File name    | Description |
 |--------------|-------------|
 | example_01.m | Basic Matlab variables |
-| example_02.m | Load dat file |
-| example_03.m | Load csv file |
-| example_04.m | Load mat file |
-| example_05.m | Load hdf5 file |
-| example_06.m | Basic statistics |
+| example_02.m | Dat file example |
+| example_03.m | Csv file example |
+| example_04.m | Mat file example |
+| example_05.m | hdf5 file example |
+| example_06.m | Basic statistical function |
 | example_07.m | Bar plots and moving mean |
 | example_08.m | Deal with missing data |
 | example_09.m | Deal with ouliers |
 | example_10.m | Data fitting |
 | example_11.m | Selection of colormap |
-| example_12.m | Colormap overlap |
-| example_13.m | Simple animation |
+| example_12.m | Overlap of colormaps |
+| example_13.m | Animation |
