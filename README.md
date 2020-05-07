@@ -19,3 +19,11 @@ This folder includes 13 example codes as well as input files presented in the wo
 | example_11.m | Selection of colormap |
 | example_12.m | Overlap of colormaps |
 | example_13.m | Animation |
+
+# Input files
+| File name    | Description |
+|--------------|-------------|
+| Kings.mat              | Surface data of Kings Caynon |
+| LA_Ventura_Counties.h5 | Topography of LA and Ventura counties |
+| Snow_color.csv         | Snow cover colormap |
+| us-population.csv      | US population in each state |
