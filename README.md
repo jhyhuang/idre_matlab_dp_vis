@@ -26,4 +26,4 @@ This folder includes 13 example codes as well as input files presented in the wo
 | Kings.mat              | Surface data of Kings Caynon |
 | LA_Ventura_Counties.h5 | Topography of LA and Ventura counties |
 | Snow_color.csv         | Snow cover colormap |
-| us-population.csv      | US population in each state |
+| us-population.csv      | US population of each state |
