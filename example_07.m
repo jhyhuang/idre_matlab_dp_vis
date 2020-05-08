@@ -6,6 +6,7 @@
 clc; clear;
 
 % load csv data from website
+% the following Covid19_Cal_NY.mat will be automatically generated after running example_03.m
 fname_in = 'Covid19_Cal_NY.mat'; % file name
 load(fname_in);
 
