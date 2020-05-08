@@ -26,6 +26,8 @@ This folder includes 13 example codes as well as input files presented in the wo
 | Kings.mat              | Surface data of Kings Caynon |
 | LA_Ventura_Counties.h5 | Topography of LA and Ventura counties |
 | Snow_color.csv         | Snow cover colormap |
-| us-population.csv      | US population of each state<sup>1</sup> |
+| us-states.csv          | US COVID-19 cases from New Yorks Times<sup>1</sup> |
+| us-population.csv      | US population of each state<sup>2</sup> |
 
- <sup>1</sup> https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
+<sup>1</sup> https://github.com/nytimes/covid-19-data.  
+<sup>2</sup> https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
