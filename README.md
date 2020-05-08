@@ -4,21 +4,21 @@ This folder includes 13 example codes as well as input files presented in the wo
 
 # Examples
 
-| File name    | Description |
-|--------------|-------------|
-| example_01.m | Basic Matlab variables |
-| example_02.m | Dat file example |
-| example_03.m | Csv file example |
-| example_04.m | Mat file example |
-| example_05.m | hdf5 file example |
-| example_06.m | Basic statistical function |
-| example_07.m | Bar plots and moving mean |
-| example_08.m | Deal with missing data |
-| example_09.m | Deal with ouliers |
-| example_10.m | Data fitting |
-| example_11.m | Selection of colormap |
-| example_12.m | Overlap of colormaps |
-| example_13.m | Animation |
+| File name    | Description | Input/outout files |
+|--------------|-------------|--------------------|
+| example_01.m | Basic Matlab variables |   |
+| example_02.m | Dat file example | Matlab built-in file 'count.dat' |
+| example_03.m | Csv file example | us-states.csv, Covid19_Cal_NY.mat |
+| example_04.m | Mat file example | Matlab built-in file 'wind.mat' |
+| example_05.m | hdf5 file example | LA_Ventura_Counties.h5 |
+| example_06.m | Basic statistical function | Matlab built-in file 'windData.mat' |
+| example_07.m | Bar plots and moving mean | Covid19_Cal_NY.mat from example_03.m |
+| example_08.m | Deal with missing data | Covid19_Cal_NY.mat from example_03.m |
+| example_09.m | Deal with ouliers | Covid19_Cal_NY.mat from example_03.m |
+| example_10.m | Data fitting | Covid19_Cal_NY.mat from example_03.m |
+| example_11.m | Selection of colormap | Matlab built-in file 'mri' |
+| example_12.m | Overlap of colormaps | Kings.mat, Snow_color.csv |
+| example_13.m | Animation | us-states.csv, us-population.csv |
 
 # Input files
 | File name    | Description |
